@@ -2,8 +2,8 @@
 
 Hi Jai Kotiyan this side. I am a Final year student of NIT Kurukshetra pusrsuing my B.tech in Production and Industrial Engineering.
 Here I am sharing my Projects I have made using flutter.
-1. BMI App :
-2. Expense tracker app :
+1. BMI App : Bmi calculator using flutter, allowing user to input their height and weight for calculations.
+2. Expense tracker app : An expense tracker app using Flutter, allowing users to categorize expenses by type such as travel, food, health, etc. Helps student to keep track of their expenses
 
 3. Internship (Code) : In this folder named Jai's work contains all the UI screenn I have made during my internship. The UI designs I implemented are as follows :
    ![Screenshot 2024-12-01 072735](https://github.com/user-attachments/assets/a528ffe3-aab2-4667-bbb1-25a21d6d1db9)
